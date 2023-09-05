@@ -25,6 +25,8 @@ urls:
       url: /blog
     - text: Contact
       url : /contact
+    - text: Policy
+      url : /policy
 
 #    - text: AI Detection
 #      url: /ai-detection
