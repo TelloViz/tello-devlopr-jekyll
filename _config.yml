@@ -95,7 +95,7 @@ author_project_details:
               - project_thumbnail: snake-logo.png
                 project_title: Snake
                 project_description: Snake built in C++ using SFML w/ art by me
-                project_url: https://telloviz.netlify.app/gallery/snake
+                project_url: https://telloviz.netlify.app/projects/snake
                 visibility: true
               - project_thumbnail: surfer-t.PNG
                 project_title: Neon Cloud
