@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "LinkedIn Post 09-11-2023"
+title:  "Happy Monday, LinkedIn"
 summary: "Just a general Happy Monday post"
 author: tello-
 date: '2023-09-11 15:00:00 -0700'
