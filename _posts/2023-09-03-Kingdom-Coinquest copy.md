@@ -11,4 +11,9 @@ permalink: /blog/linkedin-2023-9-11
 usemathjax: true
 ---
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7107120614154403840" height="561" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<div>
+    <iframe 
+        src="https://www.linkedin.com/embed/feed/update/urn:li:share:7107120614154403840" height="561" width="504" frameborder="0" allowfullscreen="" title="Embedded post"
+    >
+    </iframe>
+</div>
