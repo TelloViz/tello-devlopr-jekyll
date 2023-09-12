@@ -8,6 +8,15 @@
     - office-thumbnail.png
     thumbnail: office-thumbnail.png
 -
+  title: 'Bob Bömbermann & Dugg Diggins : Concept Art'
+  directory: bomber
+  preview:
+    filename: 36
+    original: 36.jpg
+    sizes:
+    - 36.jpg
+    thumbnail: 36-t.jpg
+-
   title: 'Path of Pain : Photoshop'
   directory: design
   preview:
