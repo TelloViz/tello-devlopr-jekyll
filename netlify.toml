@@ -1,6 +1,7 @@
 [build]
   command = "jekyll build"
   publish = "build"
+  targetPort = 4000
 
 [build.environment]
   JEKYLL_ENV = "production"

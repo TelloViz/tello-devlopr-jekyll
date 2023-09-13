@@ -1,23 +1,13 @@
-
 <h1>Project GAL Development Log</h1>
 <p>This is the first official dev log post for Project GAL.</p>
 <br>
-<h2>Background and Intentions</h2>
+<h2>Background/Intentions</h2>
 <p>Project GAL aims to fill the gap in my portfolio with a 3D game development project, enhancing my prospects in the
   video game industry job market. I aim to have this project in a playable state by the end of this month (September
   2023) so I can include it on internship applications. This is going to be developed in parallel with my semester
   workload so that will certainly hold priority over this.</p>
 <br>
-<h2>Demonstration Video</h2>
-<div class="yt-video">
-  <iframe width="800" height="450" src="https://www.youtube.com/embed/tzEoc89jLjY?si=DV5msCV0-Xeq4_Iy"
-    title="YouTube video player" frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen></iframe>
-</div>
-<h6>Music by me, for an unrelated <a href="https://telloviz.netlify.app/music/worm ">project</a></h6>
-<br>
-<h2>Development Approach</h2>
+<h2>Development/Approach</h2>
 <p>Originally, the project was a Western-themed 3D bullet-hell game. To ensure timely completion, I simplified it into a
   3D rail-based Western gallery shooter inspired by Disneyland's <i>Toy Story Midway Mania</i> and the arcade classic
   <i>Time Crisis</i>
@@ -41,98 +31,141 @@
   <li>Prefab for reuse, allowing for the original concept to be quickly made later by simply modifying this project</li>
 </ul>
 <br>
-<h2>Challenges and Issues</h2>
+<h2>Challenges/Issues</h2>
 <blockquote>
-  <b><h5>Challenge:</h5></b>
+  <b>
+    <h5>Challenge:</h5>
+  </b>
   <p>The initial dolly-track navigation presented camera challenges due to sudden directional changes.</p>
-  <b><h5>Remedy:</h5></b>
-  <p>I redesigned the path as a straight-track with player-controlled first-person aiming. Players can look around within set limits, improving immersion. A centered reticle follows mouse-controlled camera motion.</p>
+  <b>
+    <h5>Remedy:</h5>
+  </b>
+  <p>I redesigned the path as a straight-track with player-controlled first-person aiming. Players can look around
+    within set limits, improving immersion. A centered reticle follows mouse-controlled camera motion.</p>
 </blockquote>
 
 <blockquote>
-  <b><h5>Challenge:</h5></b>
-  <p>The player character was initially planned for 3rd-person POV but the complexity of 3D character rigging/animating is time-consuming and not vital at this time.</p>
-  <b><h5>Remedy:</h5></b>
+  <b>
+    <h5>Challenge:</h5>
+  </b>
+  <p>The player character was initially planned for 3rd-person POV but the complexity of 3D character rigging/animating
+    is time-consuming and not vital at this time.</p>
+  <b>
+    <h5>Remedy:</h5>
+  </b>
   <p>Opted for a 1st person POV to eliminate the need for any player character visuals outside the player's arm/gun.</p>
 </blockquote>
 
 <blockquote>
-  <b><h5>Challenge:</h5></b>
+  <b>
+    <h5>Challenge:</h5>
+  </b>
   <p>Hardware limitations on my aging PC have affected workflow efficiency.</p>
-  <b><h5>Remedy:</h5></b>
+  <b>
+    <h5>Remedy:</h5>
+  </b>
   <p>Utilize third-party low-poly assets and work in an isolated scene for creating prefabs of smaller objects</p>
 </blockquote>
-  
+
 <blockquote>
-  <b><h5>Challenge:</h5></b>
+  <b>
+    <h5>Challenge:</h5>
+  </b>
   <p>understanding control flow between Unity's Editor Mode, Play Mode, and the standalone executable "mode".</p>
-  <b><h5>Remedy:</h5></b>
-  <p>Learning many approaches to solve the control flow problem through articles, youtube and documentation, then deciding what works best for the game.</p>
+  <b>
+    <h5>Remedy:</h5>
+  </b>
+  <p>Learning many approaches to solve the control flow problem through articles, youtube and documentation, then
+    deciding what works best for the game.</p>
 </blockquote>
 <br>
 <h2>Shortcomings</h2>
 <blockquote>
-  <b><h5>Issue:</h5></b>
+  <b>
+    <h5>Issue:</h5>
+  </b>
   <p>Player arm movement</p>
   <ul>
     <li>Gun-holding arm/hand doesn't follow aim/reticle</li>
   </ul>
-  <b><h5>Remedy:</h5></b>
-  <p>I will map the upper arm bone of the player model to rotate in accordance with the player aim/view camera movement.</p>
+  <b>
+    <h5>Remedy:</h5>
+  </b>
+  <p>I will map the upper arm bone of the player model to rotate in accordance with the player aim/view camera movement.
+  </p>
 </blockquote>
 
 <blockquote>
-  <b><h5>Issue:</h5></b>
+  <b>
+    <h5>Issue:</h5>
+  </b>
   <p>Horse model animation</p>
   <ul>
     <li>Horse head is idle, needs animation</li>
   </ul>
-  <b><h5>Remedy:</h5></b>
-  <p>I will give the horse head a simple bobbing animation to imply the locomotion of the rest of the horse unseen by the viewer.</p>
+  <b>
+    <h5>Remedy:</h5>
+  </b>
+  <p>I will give the horse head a simple bobbing animation to imply the locomotion of the rest of the horse unseen by
+    the viewer.</p>
 </blockquote>
 
 <blockquote>
-  <b><h5>Issue:</h5></b>
+  <b>
+    <h5>Issue:</h5>
+  </b>
   <p>Gun doesn't shoot</p>
   <ul>
     <li>Gun has no shooting implementation yet</li>
   </ul>
-  <b><h5>Remedy:</h5></b>
-  <p>Using the raycast helper function in my Input Manager, I will detect projectile hits and animate the hit location, and score increment accordingly.</p>
+  <b>
+    <h5>Remedy:</h5>
+  </b>
+  <p>Using the raycast helper function in my Input Manager, I will detect projectile hits and animate the hit location,
+    and score increment accordingly.</p>
 </blockquote>
 
 <blockquote>
-  <b><h5>Issue:</h5></b>
+  <b>
+    <h5>Issue:</h5>
+  </b>
   <p>Start Menu UI</p>
   <ul>
     <li>Exists but isn't wired to events/actions</li>
   </ul>
-  <b><h5>Remedy:</h5></b>
-  <p>Using either Unity Events and/or a custom UI Manager with my custom event system, I will wire UI buttons to Input System Actions</p>
+  <b>
+    <h5>Remedy:</h5>
+  </b>
+  <p>Using either Unity Events and/or a custom UI Manager with my custom event system, I will wire UI buttons to Input
+    System Actions</p>
 </blockquote>
 <br>
 <h2>Current Results</h2>
 <p>Several elements are implemented and working:</p>
 <ul>
-  <li><h5>Environment</h5>
+  <li>
+    <h5>Environment</h5>
     <ul>
       <li>Town Buildings and props look great</li>
       <li>ProBuilder painted landscape adds immersion and aesthetic appeal</li>
     </ul>
   </li>
-  <li><h5>Player Controller</h5>
+  <li>
+    <h5>Player Controller</h5>
     <ul>
       <li>First-Person aim/look tracks mouse position properly</li>
       <li>Raycast Mouse Hit exposed by InputManager for easy game design access and debugging simplicity</li>
     </ul>
   </li>
-  <li><h5>Dolly Track/Cart</h5>
+  <li>
+    <h5>Dolly Track/Cart</h5>
     <ul>
       <li>Successfully transports Player and Camera through the level</li>
       <li>No hairpin turns that overcomplicate things</li>
     </ul>
   </li>
-  <li><h5>Gallery Targets</h5>
+  <li>
+    <h5>Gallery Targets</h5>
     <ul>
       <li>3rd party military range targets used for gallery target visuals</li>
       <li>Gallery targets prefab created for easy placement around the level</li>
@@ -140,6 +173,9 @@
     </ul>
   </li>
 </ul>
+<div>
+<center><img src="../assets/img/posts/GAL_Target_Prefab.gif"></center>
+</div>
 <br>
 <h2>Project Impact</h2>
 <p>The time spent on this project has already contributed to my growth as a game developer. While I haven't delved
@@ -157,3 +193,11 @@
 <p>Additionally, I've learned to accept help from tutorials while balancing my desire for independent problem-solving.
   This approach has deepened my understanding and appreciation of Unity's capabilities and will fast track my own
   ability for future projects.</p>
+<br>
+<h2>Demonstration Video</h2>
+<div class="yt-video">
+  <iframe width="800" height="450" src="https://www.youtube.com/embed/tzEoc89jLjY?si=DV5msCV0-Xeq4_Iy"
+    title="YouTube video player" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen></iframe>
+</div>
