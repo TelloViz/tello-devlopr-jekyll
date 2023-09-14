@@ -3,33 +3,41 @@ layout: projects
 title: Chomp
 ---
 
+<div class="center">
+<h2>Gyo Fish</h2>
 
-<h2><center>Gyo Fish</center></h2>
 <h4>
-    <center>
+    
         Stardew Valley fishing mini-game in 2-week jam
-    </center>
+    
 </h4>
 
 <hr>
 <blockquote>
-<h5><center><u>Art</u></center></h5>
-<h6><center><i>Caleb</i></center></h6>
-<h6><center><i>Josh</i></center></h6>
-<h5><center><u>Design</u></center></h5>
-<h6><center><i>Caleb</i></center></h6>
-<h6><center><i>Josh</i></center></h6>
-<h5><center><u>Engineering</u></center></h5>
-<h6><center><i>Josh</i></center></h6>
+<h5><u>Art</u></h5>
+<h6><i>Caleb</i></h6>
+<h6><i>Josh</i></h6>
+<h5><u>Design</u></h5>
+<h6><i>Caleb</i></h6>
+<h6><i>Josh</i></h6>
+<h5><u>Engineering</u></h5>
+<h6><i>Josh</i></h6>
 </blockquote>
 <hr>
-<h4><center>Demo Video</center></h4>
-<div class="yt-video">
-<center>
-<iframe width="800" height="450" src="https://www.youtube.com/embed/fIADLUnKWA0?si=DV5msCV0-Xeq4_Iy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<h4>Demo Video</h4>
 </div>
-<center><blockquote><h4>🎧Melon Call Me</h4>
-<p>A collaboration of my friend(piano) and I(guitar).</p></blockquote></center>
+<div class="yt-video">
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/fIADLUnKWA0?si=DV5msCV0-Xeq4_Iy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="center">
+    <blockquote>
+        <h4>🎧Melon Call Me</h4>
+        <p>A collaboration of my friend(piano) and I(guitar).</p>
+    </blockquote>
+</div>
+
 <hr>
 <h4>Focus:</h4>
 <ul>
@@ -42,7 +50,13 @@ title: Chomp
 <h4>Background:</h4>
 <p>I had made a prototype version (The green-toned was created by me for the prototype version). During the 2-week jam, we took this prototype project I'd made, and re-made it with the intention on adding the 2nd layer mechanic(The 4-way grid fishing scene).</p>
 <hr>
-<center><blockquote>This project was a fun leap out of our comfort zone.</blockquote></center>
+
+<div class="center">
+    <blockquote>
+        This project was a fun leap out of our comfort zone.
+    </blockquote>
+</div>
+
 <hr>
 <h4>Shortcomings:</h4>
 <ul>
