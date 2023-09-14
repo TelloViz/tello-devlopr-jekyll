@@ -7,7 +7,7 @@ permalink: /styleguide/
 
 ### devlopr - Styleguide
 
-<hr />
+<hr>
 
  <img src="/assets/img/styleguide.png" class="img-fluid">
 
@@ -23,7 +23,7 @@ permalink: /styleguide/
 <h5> Hello in h5 ! </h5>
 <h6> Hello in h6 ! </h6>
 
-<hr />
+<hr>
 <p> Unordered List </p>
 
 <ul>
@@ -59,7 +59,7 @@ permalink: /styleguide/
 <p><abbr title="attribute">attr</abbr></p>
 <p><abbr title="HyperText Markup Language" class="initialism">HTML</abbr></p>
 
-<hr />
+<hr>
 <div class="responsive-table">
 <table>
       <thead>
@@ -117,7 +117,7 @@ permalink: /styleguide/
     </table>
     </div>
 
-<hr />
+<hr>
 
 <h3> Instagram Embed </h3>
 
@@ -130,45 +130,45 @@ permalink: /styleguide/
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I just published “Deploying a blog using Jekyll and Github Pages with SSL certificate for Free” <a href="https://t.co/B3T3IQVU93">https://t.co/B3T3IQVU93</a></p>&mdash; Sujay Kundu (@SujayKundu777) <a href="https://twitter.com/SujayKundu777/status/1012601950469160962?ref_src=twsrc%5Etfw">June 29, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<hr />
+<hr>
 
 
 <h3>YouTube Responsive Embed</h3>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bBpKMH3nBzE?rel=0&amp;controls=0&amp;showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<hr />
+<hr>
 
 <h3>Vimeo Responsive Embed</h3>
 
 <iframe src="https://player.vimeo.com/video/212114694?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
-<hr />
+<hr>
 
 <h3 id="ted-responsive-embed">TED Responsive Embed</h3>
 
 <iframe src="https://embed.ted.com/talks/ted_halstead_a_climate_solution_where_all_sides_can_win" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen=""></iframe>
 
-<hr />
+<hr>
 
 <h3 id="twitch-responsive-embed">Twitch Responsive Embed</h3>
 
 <iframe src="https://player.twitch.tv/?autoplay=false&amp;video=v248755437" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
-<hr />
+<hr>
 
 <h3 id="soundcloud-embed">SoundCloud Embed</h3>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/29738591&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-<hr />
+<hr>
 
 <h3 id="codepen-embed">CodePen Embed</h3>
 
 <p data-height="265" data-theme-id="light" data-slug-hash="YWvpRo" data-default-tab="css,result" data-user="kharrop" data-embed-version="2" data-pen-title="Referral Form" class="codepen"></p>
 <script async="" src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
-<hr />
+<hr>
 
 <h3 id="syntax-highlighting">Syntax Highlighting</h3>
 
@@ -190,18 +190,18 @@ permalink: /styleguide/
   <span class="nl">overflow</span><span class="p">:</span> <span class="nb">auto</span><span class="p">;</span>
 <span class="p">}</span></code></pre></figure>
 
-<hr />
+<hr>
 
 <h3 id="github-gist-embed">GitHub gist Embed</h3>
 
 <script src="https://gist.github.com/ahmadajmi/dbb4f713317721668bcbc39420562afc.js"></script>
 
-<hr />
+<hr>
 
 <h3 id="input-style">Input Style</h3>
 
-<p><input type="text" placeholder="I'm an input field!" /></p>
+<p><input type="text" placeholder="I'm an input field!" ></p>
 
-<hr />
+<hr>
 
 

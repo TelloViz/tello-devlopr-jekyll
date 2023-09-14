@@ -20,12 +20,12 @@
   </div>
 
   <div class="card-body" itemprop="articleBody">
-    <!--<img class="card-img-top" src="{{site.url}}{{site.baseurl}}{{ page.thumbnail }}" alt="{{ post.title }}" />-->
+    <!--<img class="card-img-top" src="{{site.url}}{{site.baseurl}}{{ page.thumbnail }}" alt="{{ post.title }}" >-->
     <img class="card-img-top" src="{{site.url}}{{site.baseurl}}/assets/img/from-desk.png" alt="{{ post.title }}" >
-    <br />
-    <br />
+    <br >
+    <br >
     {{ content }}
-    <br />
+    <br>
     {%- include share_page.html -%}
     <!-- Author box -->
     {% assign author = site.data.authors[page.author] %}
