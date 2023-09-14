@@ -17,7 +17,11 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen></iframe>
 </div>
 <hr>
-<div class="center"><h6><blockquote><b>Tragic Theme</b></blockquote></h6></div>
+<div class="center">
+    <h6>
+        <blockquote><b>Tragic Theme</b></blockquote>
+    </h6>
+</div>
 
 <div class="yt-video">
 ><iframe width="560" height="315"

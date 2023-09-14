@@ -31,9 +31,9 @@ layout: default
       <div class="card-header">Useful Links</div>
       <div class="card-body text-dark">
         {% for i in site.urls %}
-        <li>
+        <ul>
           <a href="{{ site.url}}{{site.baseurl}}{{ i.url }}">{{ i.text }}</a>
-        </li>
+        </ul>
         {% endfor %}
       </div>
     </div>
