@@ -3,12 +3,12 @@
     aria-expanded="false" aria-label="Toggle navigation">
     <span class="icono-hamburger" id="navbar-hamburger"> </span>
   </button>
-  <a class="navbar-brand" href="/">{{site.title}}</a>
+  <a class="navbar-brand" href="/" alt="">{{site.title}}</a>
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       {% for i in site.urls %}
       <li class="nav-item">
-        <a class="nav-link" href="{{ site.url}}{{site.baseurl}}{{ i.url }}">{{ i.text }}</a>
+        <a class="nav-link" href="{{ site.url}}{{site.baseurl}}{{ i.url }}" alt="">{{ i.text }}</a>
       </li>
       {% endfor %}
 
@@ -18,7 +18,7 @@
     <li class="nav-item">
     </li>
     <li class="nav-item">
-      <a class="nav-link toggle-search-button" href="#search">
+      <a class="nav-link toggle-search-button" href="#search" alt="">
         <i class="fa fa-search search-icon" aria-hidden="true"></i>
       </a>
     </li>
