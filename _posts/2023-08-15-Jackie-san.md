@@ -8,7 +8,6 @@ category: life
 thumbnail: /assets/img/office.png
 keywords: life personal journal blog
 permalink: /blog/jackie-san
-usemathjax: true
 ---
 
 

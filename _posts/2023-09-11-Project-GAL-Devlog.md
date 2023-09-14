@@ -8,7 +8,6 @@ category: game-projects
 thumbnail: /assets/img/office.png
 keywords: GAL ProjectGal devlog unity game-projects
 permalink: /blog/GAL-Dev-Log-1
-usemathjax: true
 ---
 
 {% include_relative GAL-Dev-2023-09-11.html %}

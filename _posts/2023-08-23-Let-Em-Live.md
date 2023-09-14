@@ -8,7 +8,6 @@ category: collaboration
 thumbnail: /assets/img/office.png
 keywords: collaboration github group-project school-project second-chances
 permalink: /blog/let-em-live
-usemathjax: true
 ---
 
 

@@ -8,7 +8,6 @@ category: game-projects
 thumbnail: /assets/img/office.png
 keywords: c++ cpp sfml game-dev games game-projects
 permalink: /blog/snake-sfml
-usemathjax: true
 ---
 
 ### **Snake++ w/ SFML**

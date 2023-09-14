@@ -8,7 +8,6 @@ category: unity
 thumbnail: /assets/img/office.png
 keywords: unity-engine coding devlog neon-cloud art digital-art guitar
 permalink: /blog/flying-crab/
-usemathjax: true
 ---
 
 #### I don't spend absolutely all of my time coding. 

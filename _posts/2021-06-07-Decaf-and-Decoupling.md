@@ -8,7 +8,6 @@ category: unity
 thumbnail: /assets/img/office.png
 keywords: unity-engine coding devlog neon-cloud
 permalink: /blog/decaf-and-decoupling/
-usemathjax: true
 comments: true
 ---
 

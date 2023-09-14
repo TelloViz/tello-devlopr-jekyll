@@ -8,7 +8,6 @@ category: game-projects
 thumbnail: /assets/img/office.png
 keywords: unity game-dev games lunar-lander perlin-noise
 permalink: /blog/unity-lunar-lander
-usemathjax: true
 ---
 
 ### **Lunar Lander**

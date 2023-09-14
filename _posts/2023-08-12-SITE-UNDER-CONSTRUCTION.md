@@ -8,7 +8,6 @@ category: admin
 thumbnail: /assets/img/office.png
 keywords: construction admin
 permalink: /blog/site-under-construction
-usemathjax: true
 ---
 
 

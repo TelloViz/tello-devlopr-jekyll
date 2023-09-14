@@ -8,7 +8,6 @@ category: tools
 thumbnail: /assets/img/office.png
 keywords: metronome
 permalink: /blog/metronome
-usemathjax: true
 metronome: true
 ---
 

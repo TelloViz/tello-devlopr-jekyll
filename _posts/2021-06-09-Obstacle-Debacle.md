@@ -8,7 +8,6 @@ category: unity
 thumbnail: /assets/img/office.png
 keywords: unity-engine coding devlog neon-cloud
 permalink: /blog/obstacle-debacle/
-usemathjax: true
 ---
 
 **Today's Task:**

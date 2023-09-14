@@ -8,8 +8,6 @@ category: unity
 thumbnail: /assets/img/office.png
 keywords: unity-engine unity devlog neon-cloud
 permalink: /blog/transformers/
-usemathjax: true
-comments: true
 ---
 
 # I have one word of advice for anyone treading into Unity for the first time....

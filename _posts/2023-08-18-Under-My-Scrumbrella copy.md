@@ -8,7 +8,6 @@ category: general
 thumbnail: /assets/img/office.png
 keywords: agile scrum kanban sprints project-management resources
 permalink: /blog/scrumbrella
-usemathjax: true
 ---
 
 

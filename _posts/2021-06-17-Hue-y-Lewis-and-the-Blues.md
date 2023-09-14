@@ -8,8 +8,6 @@ category: unity
 thumbnail: /assets/img/office.png
 keywords: unity-engine unity devlog neon-cloud
 permalink: /blog/huey-lewis-blues
-usemathjax: true
-comments: true
 ---
 
 ## :: Lerp ::

@@ -8,7 +8,6 @@ category: game-projects
 thumbnail: /assets/img/office.png
 keywords: c++ game-development game-developer game-project game-projects game-implementation self-starter
 permalink: /blog/snake-game
-usemathjax: true
 ---
 
 
