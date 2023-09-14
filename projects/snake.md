@@ -31,10 +31,10 @@ title: Snake
 - Bug with running into bones not creating more bones
 
 <div class="yt-video">
-<center><iframe width="800" height="450" src="https://www.youtube.com/embed/DtEGNMsFRR8?si=DV5msCV0-Xeq4_Iy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/DtEGNMsFRR8?si=DV5msCV0-Xeq4_Iy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-<center> {% include projects-layout.html projects=site.data.projects.snake %} </center>
+ <div class="center">{% include projects-layout.html projects=site.data.projects.snake %}</div>
 
 ---
 

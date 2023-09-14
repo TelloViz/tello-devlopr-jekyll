@@ -6,7 +6,9 @@ title: Neon Cloud
 ## Neon Cloud (Server Surfer)
 ### A Unity mentorship project created Summer '21
 
-<center><img src="../assets/projects/../img/projects/neoncloud/surfer-t.png" alt="Surfer"></center>
+<div class="center">
+<img src="../assets/projects/../img/projects/neoncloud/surfer-t.png" alt="Surfer">
+</div>
 
 ---
 
@@ -41,35 +43,35 @@ title: Neon Cloud
 
 <h4>3-stance mechanic and flight-path</h4>
 <div class="yt-video">
-<center><iframe width="800" height="450" src="https://www.youtube.com/embed/cOl0YcgvyA0?si=DV5msCV0-Xeq4_Iy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/cOl0YcgvyA0?si=DV5msCV0-Xeq4_Iy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <hr>
 <h4>Converted player character to my own design</h4>
 <div class="yt-video">
-<center><iframe width="800" height="450" src="https://www.youtube.com/embed/2yQsls8u0wg?si=DV5msCV0-Xeq4_Iy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/2yQsls8u0wg?si=DV5msCV0-Xeq4_Iy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <hr>
 <h4>Created more asthetically appealng movement for player</h4>
 <div class="yt-video">
-<center><iframe width="800" height="450" src="https://www.youtube.com/embed/kCTCbXfQMr0?si=DV5msCV0-Xeq4_Iy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/kCTCbXfQMr0?si=DV5msCV0-Xeq4_Iy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <hr>
 <h4>Introduced flight patterns</h4>
 <div class="yt-video">
-<center><iframe width="800" height="450" src="https://www.youtube.com/embed/ghEL2NIQV_0?si=DV5msCV0-Xeq4_Iy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/ghEL2NIQV_0?si=DV5msCV0-Xeq4_Iy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <hr>
 <h4>More on flight patterns</h4>
 <div class="yt-video">
-<center><iframe width="800" height="450" src="https://www.youtube.com/embed/TxkyfSkyaFY?si=DV5msCV0-Xeq4_Iy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/TxkyfSkyaFY?si=DV5msCV0-Xeq4_Iy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <hr>
 <h4>Looped enemy via custom event triggers</h4>
 <div class="yt-video">
-<center><iframe width="800" height="450" src="https://www.youtube.com/embed/c8jDT2u8Ty0?si=DV5msCV0-Xeq4_Iy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/c8jDT2u8Ty0?si=DV5msCV0-Xeq4_Iy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <hr>
 <h4>Introduced project originally as Flappy Koopa</h4>
-<center><div class="yt-video">
-<iframe width="800" height="450" src="https://www.youtube.com/embed/3BDFBor0CzU?si=DV5msCV0-Xeq4_Iy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<div class="yt-video">
+<iframe width="800" height="450" src="https://www.youtube.com/embed/3BDFBor0CzU?si=DV5msCV0-Xeq4_Iy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
