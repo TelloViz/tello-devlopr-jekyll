@@ -4,8 +4,8 @@ title: Spider-Man
 ---
 
 
-<h2><center>Spider-Man</center><h2>
-<h6><center>Painted in photoshop and edited with Lightroom</center></h6>
+<div class=center><h2>Spider-Man<h2></div>
+<div class=center><h6>Painted in photoshop and edited with Lightroom</h6></div>
 {% include art-layout.html art=site.data.art.spider %}
 
 <h2>Background:</h2>

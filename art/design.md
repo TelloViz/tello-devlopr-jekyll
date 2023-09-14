@@ -4,22 +4,22 @@ title: Design
 ---
 
 
-<h2><center>Path of Pain</center></h2>
+<div class=center><h2>Path of Pain</h2>
 
 
 <h3>Background:</h3>
 <p>I'm not a sneaker-head, but have always been a fan of the Nike SB sneakers. I used to own a purple/black pair and miss them dearly. One day I got the impulse to design a pair of my own in photoshop. I used Pain from Naurto : Shippuden as inspiration.</p>
 {% include art-layout.html art=site.data.art.design %}
-<blockquote><center><i>The design is highly impractical anyway!</i></center></blockquote>
+<div class=center><blockquote><i>The design is highly impractical anyway!</i></blockquote>
 <hr>
 
 
-<div class="yt-video"><center><iframe width="560" height="315"
+<div class=center><div class="yt-video"><iframe width="560" height="315"
 src="https://www.youtube.com/embed/qi5a2OYzMaU?rel=0&amp;controls=1&amp;showinfo=0&amp;modestbranding=1"
 title="YouTube video player" frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe></center></div>
-<center><blockquote>I also sliced/composed/mixed the beat!</blockquote></center>
+allowfullscreen></iframe></div>
+<div class=center><blockquote>I also sliced/composed/mixed the beat!</blockquote>
 
 
 
