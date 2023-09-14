@@ -8,7 +8,6 @@ category: admin
 thumbnail: /assets/img/office.png
 keywords: hello-world
 permalink: /blog/welcome-to-tello-vision
-metronome: true
 ---
 
 
