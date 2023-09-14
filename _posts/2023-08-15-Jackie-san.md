@@ -11,8 +11,7 @@ permalink: /blog/jackie-san
 usemathjax: true
 ---
 
-<html>
-<body>
+
     <p>Since purchasing our condo in Fullerton in 2020, I befriended our 96-year-old HOA neighbor, Jackie.</p>
     <p>Her only local relation was her stepson, who lived up in Northern California, and would come down to see her from time to time, trying to convince her to sell her place.</p>
     <p>Jackie would often be out taking little walks; she lived alone. At that age... she is a testament to fortitude and willpower.</p>
@@ -35,5 +34,3 @@ usemathjax: true
     <p>💜ありがとうございます ジャッキィさん💜</p>
     <p>Thank you for reading this, truly.</p>
     <p>-Josh✌️</p>
-</body>
-</html>

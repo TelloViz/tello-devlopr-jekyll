@@ -11,8 +11,7 @@ permalink: /blog/let-em-live
 usemathjax: true
 ---
 
-<html>
-<body>
+
     <center><h2>Second chances can change a person.</h2></center>
     <h3>I've seen it happen in group projects at school.</h3>
     <p>In one of my classes a few semesters back, we were required to team up and create a project that bridged frontend web design with backend database manipulation.</p>
@@ -38,8 +37,7 @@ usemathjax: true
     <p>Put yourself in their shoes, let them back up the apology(or sometimes not) with actions. They may surprise you!</p>
     <hr>
     <p>Thank you for taking the time to read this!<br>-Josh ✌</p>
-</body>
-</html>
+
 
 
 

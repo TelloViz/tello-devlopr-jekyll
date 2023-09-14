@@ -12,8 +12,6 @@ usemathjax: true
 ---
 
 
-<html>
-<body>
     <p>I'm in the process of rounding up a few years worth of game projects, artworks, music compositions, collaborations, and anecdotes in order to supercharge my portfolio site.</p>
 
     <p>Currently, on the <a href="https://lnkd.in/gDgjyEFB" target="_blank">about page on my website</a>, you can see a couple of the projects I've made in my own time. The first is an implementation of the game Snake.</p>
@@ -29,5 +27,4 @@ usemathjax: true
     <p>-Josh ✌</p>
 
     <p>P.S. Please check out the <a href="{{ site.baseurl }}/gallery/snake.html">gallery page</a> for Snake, where you can see a few screenshots of gameplay, high score tracking and more!</p>
-</body>
-</html>
+
