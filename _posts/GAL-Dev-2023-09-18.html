@@ -211,18 +211,18 @@
 <hr>
 
 <p>This was a key step in attaining the expected arm behavior. I could then easily place an <em>Animation
-        Rigging</em> package <em>Multi-Parent Constraint</em> component in the armature hierarchy to automatically
+        Rigging</em> package <em>Multi-Aim Constraint</em> component in the armature hierarchy to automatically
     do the work of rotating the shoulder of the arm/hand holding the gun, effectively aiming the revolver!</p>
 
-<p>Check out the Unity docs for more on <a alt="Unity Documentation for MultiParentConstraint"
-        href="https://docs.unity3d.com/Packages/com.unity.animation.rigging@1.1/manual/constraints/MultiParentConstraint.html">Multi-Parent
+<p>Check out the Unity docs for more on <a alt="Unity Documentation for MultiAimConstraint"
+        href="https://docs.unity3d.com/Packages/com.unity.animation.rigging@1.1/manual/constraints/MultiAimConstraint.html#:~:text=A%20Multi%2DAim%20Constraint%20rotates,the%20position%20of%20the%20cursor.">Multi-Aim
         Constraint</a></p>
 
 <hr>
 
 <img src="../assets/img/posts/gal-dev/aim-sphere.png" alt="aim-sphere.png">
 
-<blockquote><em><strong>Above:</strong> The MultiParentConstraint Component</em></blockquote>
+<blockquote><em><strong>Above:</strong> The MultiAimConstraint Component</em></blockquote>
 
 <hr>
 
@@ -326,10 +326,10 @@ Ray ray = Camera.main.ScreenPointToRay(screenCenterPoint);
 
 <p>In conclusion, the development of the aiming mechanic in Project GAL involved overcoming challenges related to
     package importation, world/local vector orientation issues, camera clipping artifacts, inverse kinematic rigging
-    and its <em>MultiParentConstraint</em> component.</p>
+    and its <em>MultiAimConstraint</em> component.</p>
 
 <p>Re-orienting the character model's armature to a consistent forward vector orientation, debugging with raycastHit
-    for world mouse position, and the <em>MultiParentConstraint</em> component technique, are what eventually led me
+    for world mouse position, and the <em>MultiAimConstraint</em> component technique, are what eventually led me
     to successfully implementing the view mechanic, and subsequent in solving the challenge of syncing the
     player-model's arm with that view mechanic!</p>
 
