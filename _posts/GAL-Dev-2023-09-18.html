@@ -213,6 +213,9 @@
         Rigging</em> package <em>Multi-Parent Constraint</em> component in the armature hierarchy to automatically
     do the work of rotating the shoulder of the arm/hand holding the gun, effectively aiming the revolver!</p>
 
+    <p>Check out the Unity docs for more on <a alt="Unity Documentation for MultiParentConstraint"
+        href="https://docs.unity3d.com/Packages/com.unity.animation.rigging@1.1/manual/constraints/MultiParentConstraint.html">Multi-Parent
+        Constraint</a></p>
 <hr>
 
 <img src="../assets/img/posts/gal-dev/aim-around.gif" alt="aim-around.gif">
@@ -260,9 +263,6 @@ Ray ray = Camera.main.ScreenPointToRay(screenCenterPoint);
     matter where the player aims. This was to ensure that there was always a new point to update the debug sphere in
     the previously seen gif, as well as the arm's aim vector. Otherwise, when aiming in the sky, the sphere/arm
     would stop moving until the ray cast logic identified another collision.</p>
-<p>Check out the Unity docs for more on <a alt="Unity Documentation for MultiParentConstraint"
-        href="https://docs.unity3d.com/Packages/com.unity.animation.rigging@1.1/manual/constraints/MultiParentConstraint.html">Multi-Parent
-        Constraint</a></p>
 
 <hr>
 
