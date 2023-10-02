@@ -1,0 +1,61 @@
+picture_path: gal
+preview:
+  filename: cactuslogo
+  original: cactuslogo.png
+  sizes:
+  - cactuslogo-t.png
+  - cactuslogo.png
+  thumbnail: cactuslogo-t.png
+pictures:
+- filename: cactuslogo
+  original: cactuslogo.png
+  sizes:
+  - cactuslogo-t.png
+  - cactuslogo.png
+  thumbnail: cactuslogo-t.png
+- filename: Gal_Target_Prefab
+  original: Gal_Target_Prefab.gif
+  sizes:
+  - Gal_Target_Prefab.gif
+  thumbnail: Gal_Target_Prefab.gif
+- filename: pop
+  original: pop.gif
+  sizes:
+  - pop.gif
+  thumbnail: pop.gif
+- filename: GAL_aim
+  original: GAL_aim.gif
+  sizes:
+  - GAL_aim.gif
+  thumbnail: GAL_aim.gif
+- filename: hitFX
+  original: hitFX.gif
+  sizes:
+  - hitFX.gif
+  thumbnail: hitFX.gif
+- filename: targetshoot
+  original: targetshoot.gif
+  sizes:
+  - targetshoot.gif
+  thumbnail: targetshoot.gif
+- filename: Gal_FPS_Demo
+  original: Gal_FPS_Demo.gif
+  sizes:
+  - Gal_FPS_Demo.gif
+  thumbnail: Gal_FPS_Demo.gif
+- filename: peekaboo
+  original: peekaboo.gif
+  sizes:
+  - peekaboo.gif
+  thumbnail: peekaboo.gif
+- filename: revIso
+  original: revIso.gif
+  sizes:
+  - revIso.gif
+  thumbnail: revIso.gif
+- filename: hammer
+  original: hammer.gif
+  sizes:
+  - hammer.gif
+  thumbnail: hammer.gif
+

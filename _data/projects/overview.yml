@@ -1,4 +1,13 @@
 -
+  title: 'Project Gal : Rail-Shooter'
+  directory: gal
+  preview:
+    filename: cactuslogo
+    original: cactuslogo.png
+    sizes:
+    - cactuslogo-t.png
+    thumbnail: cactuslogo-t.png
+-
   title: 'Snake : C++, SFML'
   directory: snake
   preview:
