@@ -83,10 +83,20 @@ author_education_details:
 
 # Projects
 author_project_details: 
+              - project_thumbnail: project-gal.gif
+                project_title: Project Gal
+                project_description: A Wild West Rail-Shooter in Unity
+                project_url: https://telloviz.netlify.app/projects/gal
+                visibility: false
               - project_thumbnail: snake-logo.png
                 project_title: Snake
                 project_description: Snake built in C++ using SFML w/ art by me
                 project_url: https://telloviz.netlify.app/projects/snake
+                visibility: true
+              - project_thumbnail: lander.png
+                project_title: Lunar Lander
+                project_description: A modern Lunar Lander in Unity
+                project_url: https://telloviz.netlify.app/projects/lunar
                 visibility: true
               - project_thumbnail: surfer-t.PNG
                 project_title: Neon Cloud
@@ -98,11 +108,7 @@ author_project_details:
                 project_description: Custom Unity Editor Rest Interface
                 project_url: https://telloviz.netlify.app/projects/editor
                 visibility: true
-              - project_thumbnail: lander.png
-                project_title: Lunar Lander
-                project_description: A modern Lunar Lander in Unity
-                project_url: https://telloviz.netlify.app/projects/lunar
-                visibility: true
+
 
 
 # social links

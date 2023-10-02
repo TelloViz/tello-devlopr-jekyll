@@ -1,18 +1,11 @@
 picture_path: gal
 preview:
-  filename: cactuslogo
-  original: cactuslogo.png
+  filename: project-gal
+  original: project-gal.gif
   sizes:
-  - cactuslogo-t.png
-  - cactuslogo.png
-  thumbnail: cactuslogo-t.png
+  - project-gal.gif
+  thumbnail: project-gal.gif
 pictures:
-- filename: cactuslogo
-  original: cactuslogo.png
-  sizes:
-  - cactuslogo-t.png
-  - cactuslogo.png
-  thumbnail: cactuslogo-t.png
 - filename: Gal_Target_Prefab
   original: Gal_Target_Prefab.gif
   sizes:
