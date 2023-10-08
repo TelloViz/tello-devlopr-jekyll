@@ -39,3 +39,9 @@ img.centered
     min-width: 400px;
     height: auto;
 }
+
+/* Apply a white border of 2 pixels to all img elements within elements with class 'image' */
+a.image img {
+    border: 2px solid #fff; /* White color */
+}
+

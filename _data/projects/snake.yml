@@ -1,16 +1,16 @@
 picture_path: snake
 preview:
-  filename: snake-logo
-  original: snake-logo.png
+  filename: snake-logo-t-w400
+  original: snake-logo-t-w400.png
   sizes:
   - snake-logo.png
-  thumbnail: snake-logo-thumbnail.png
+  thumbnail: snake-logo-t-w400.png
 pictures:
 - filename: snake-logo
   original: snake-logo.png
   sizes:
   - snake-logo.png
-  thumbnail: snake-logo-thumbnail.png
+  thumbnail: snake-logo-t-w400.png
 - filename: snake-title
   original: snake-title.jpg
   sizes:

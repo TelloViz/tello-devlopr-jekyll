@@ -11,11 +11,11 @@
   title: 'Snake : C++, SFML'
   directory: snake
   preview:
-    filename: snake-logo.png
-    original: snake-logo-thumbnail.png
+    filename: snake-logo-t-w400
+    original: snake-logo-t-w400.png
     sizes:
-    - snake-logo-thumbnail.png
-    thumbnail: snake-logo-thumbnail.png
+    - snake-logo.png
+    thumbnail: snake-logo-t-w400.png
 -
   title: 'Lunar Lander : Unity'
   directory: lunar
