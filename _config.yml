@@ -80,6 +80,12 @@ author_education_details:
                 college_degree: Computer Science
                 description: Associate of Science 
                 visibility: true
+              - college_logo: fullcoll.png
+                college_name: Fullerton College
+                college_url: https://www.fullcoll.edu
+                college_degree: Interdisc. Math/Sci
+                description: Associate of Art 
+                visibility: true
 
 # Projects
 author_project_details: 
