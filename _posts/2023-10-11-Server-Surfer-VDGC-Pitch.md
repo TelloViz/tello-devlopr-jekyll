@@ -23,6 +23,9 @@ permalink: /blog/server-surfer-vdgc-pitch
 
 <p>I have a lot of ideas for this project and hope to get back to it in full some day soon! (Perhaps once this internship season dies down 😅)</p>
 
+<p>Thanks for checking it out!</p>
+<p>- Josh✌️</p>
+
 <hr>
 <h2>The Presentation (as it was)</h2>
 <div class="center">
