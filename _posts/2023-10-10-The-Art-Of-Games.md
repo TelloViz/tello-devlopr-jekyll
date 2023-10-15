@@ -10,7 +10,7 @@ keywords: game-theory game-design game-philosophy philosophy linkedin
 permalink: /blog/the-art-of-games
 ---
 
-<div>
+<div class="col-lg-10">
 <br>
 <h2>Philosophy is a joy of mind... I mean mine.🤡</h2>
 <br>
@@ -66,6 +66,6 @@ permalink: /blog/the-art-of-games
 
 <h3>Scott's post</h3>
 
-<div class="center">
-    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7117493531924992001" class="iframe-border" height="800" width="60%" allowfullscreen="" title="Embedded post"></iframe>
+<div class="col-lg-10">
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7117493531924992001" class="iframe-border" height="800" width="100%" allowfullscreen="" title="Embedded post"></iframe>
 </div>

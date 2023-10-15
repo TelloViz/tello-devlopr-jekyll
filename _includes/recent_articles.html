@@ -1,16 +1,16 @@
 <section id="recent-articles">
-  <div id="recent-articles-header">
+<div id="recent-articles-header">
     <div id="recent-articles-title">
-      <h1 class="card-title">Recent Articles</h1>
+      <h1 class="card-title">Projects & Prototypes</h1>
     </div>
     <div id="recent-articles-show-all">
-      <a alt="" class="btn btn-lg btn-dark" href="/blog"> View All </a>
+      <a alt="" class="btn btn-lg btn-dark" href="/projects"> View All </a>
     </div>
   </div>
   <br>
 
-  <ul>
-    {% for post in site.posts limit:5 %}
+  <!-- <ul>
+    {% for post in site.posts limit:10 %}
     <li class="article-card">
       <a  alt="" href="{{post.url}}" class="article-card-link">
         <div id="article-container">
@@ -39,5 +39,38 @@
       </a>
     </li>
     {% endfor %}
-  </ul>
-</section>
+  </ul> -->
+
+  <div class="col-med-10">
+
+    <div class="row">
+      {% assign count = 0 %}
+      {% assign align = "center" %}
+      {% for projects in site.data.projects.overview %}
+      {% if count == 0 %}<div class="row">{% endif %}
+        <div class="card">
+          <div class="card-title"> {{projects.title}}</div>
+          <div class="row">
+  
+            <a href="{{ site.url }}{{ site.baseurl }}/projects/{{ projects.directory }}.html">
+              <img class="img-thumbnail" alt="{{ projects.title }}"
+                src="{{ site.url }}{{ site.baseurl }}/assets/img/projects/{% if projects.picture_path %}{{ projects.picture_path }}{% else %}{{ projects.directory }}{% endif %}/{{ projects.preview.thumbnail }}" >
+            </a>
+          </div>
+        </div>
+        {% if count == 1 %}
+      </div>{% endif %}
+      {% assign count = count | plus: 1 %}
+      {% assign align = "right" %}
+      {% if count >= 2 %}
+      {% assign align = "left" %}
+      {% assign count = 0 %}
+      {% endif %}
+      {% endfor %}
+  
+      {% if count != 1 %}
+    </div>
+    {% endif %}
+  
+  <!-- </div> -->
+  </section> 

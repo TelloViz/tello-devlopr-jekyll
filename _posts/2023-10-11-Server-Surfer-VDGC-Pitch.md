@@ -10,6 +10,7 @@ keywords: vdgc server-surfer tello-vision pitch game-design
 permalink: /blog/server-surfer-vdgc-pitch
 ---
 
+<div class="col-lg-10">
 <h1>Server Surfer (Neon Cloud) Pitch</h1>
 <br>
 <p>I found this slide presentation while going through my cloud storage. The presentation covers the design of a game I was intending at the Video Game Development Club pitch meeting at CSUF.</p>
@@ -29,5 +30,6 @@ permalink: /blog/server-surfer-vdgc-pitch
 <hr>
 <h2>The Presentation (as it was)</h2>
 <div class="center">
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSBFoFgTCVWYuM4zM68ew7zAUvfz7xnfDbBODrAsLr2PBzTpWgwBChZwM43WPm4FtQkr6OqciHLWjhG/embed?start=false&loop=true&delayms=10000" class="iframe-border" frameborder="0" width="100%" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSBFoFgTCVWYuM4zM68ew7zAUvfz7xnfDbBODrAsLr2PBzTpWgwBChZwM43WPm4FtQkr6OqciHLWjhG/embed?start=false&loop=true&delayms=10000" class="iframe-border" frameborder="0" width="100%" height="auto" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 </div>
