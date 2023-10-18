@@ -14,12 +14,17 @@ title: Design
 <hr>
 
 
-<div class=center><div class="yt-video"><iframe width="560" height="315"
-src="https://www.youtube.com/embed/qi5a2OYzMaU?rel=0&amp;controls=1&amp;showinfo=0&amp;modestbranding=1"
-title="YouTube video player" frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe></div>
-<div class=center><blockquote>I also sliced/composed/mixed the beat!</blockquote>
+<div class=center>
+<div class="iframe-border">
+            <iframe width="100%" height="400" src="https://www.youtube.com/embed/qi5a2OYzMaU?si=DV5msCV0-Xeq4_Iy"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen>
+            </iframe>
+</div>
+
+<div class=center>
+<blockquote>I also sliced/composed/mixed the beat!</blockquote>
 
 
 

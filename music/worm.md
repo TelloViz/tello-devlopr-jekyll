@@ -9,12 +9,13 @@ title: Worm
 <hr>
 <div class="center"><h6><blockquote><b>Epic Theme</b></blockquote></h6></div>
 
-<div class="yt-video">
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/dke6jsHlGzA?rel=0&amp;controls=1&amp;showinfo=0"
-modestbranding="1" title="YouTube video player" frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
+<div class="iframe-border">
+            <iframe width="100%" height="400" src="https://www.youtube.com/embed/dke6jsHlGzA?si=DV5msCV0-Xeq4_Iy"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen>
+            </iframe>
+            
 </div>
 <hr>
 <div class="center">
@@ -23,12 +24,13 @@ allowfullscreen></iframe>
     </h6>
 </div>
 
-<div class="yt-video">
-><iframe width="560" height="315"
-src="https://www.youtube.com/embed/QdSxFJrew5E?rel=0&amp;controls=1&amp;showinfo=0&amp;modestbranding=1"
-title="YouTube video player" frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
+<div class="iframe-border">
+            <iframe width="100%" height="400" src="https://www.youtube.com/embed/QdSxFJrew5E?si=DV5msCV0-Xeq4_Iy"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen>
+            </iframe>
+            
 </div>
 
 <hr>

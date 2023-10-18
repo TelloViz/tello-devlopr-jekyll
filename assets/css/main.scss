@@ -8,22 +8,25 @@
 /* custom css goes below */
 
 
-div.yt-video {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: visible;
-    max-width: 100%;
-    height: auto;
-}
+// div.yt-video {
+//     position: relative;
+//     padding: .25rem; /* Add padding for the border */
+//     background-color: #000000 !important; /* Set background color */
+//     border: 4px solid #b16ede !important; /* Set the magenta border */
+//     border-radius: .25rem; /* Add border-radius */
+//     max-width: 100%;
+//     height: auto;
+//     overflow: visible;
+// }
 
-div.yt-video iframe, div.yt-video object, div.yt-video embed{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100% !important;
-    height: 100% !important;
-}
+// div.yt-video iframe, div.yt-video object, div.yt-video embed {
+//     position: absolute;
+//     top: 0;
+//     left: 0;
+//     width: 100% !important;
+//     height: 100% !important;
+// }
+
 
 .center {
     text-align: center;
